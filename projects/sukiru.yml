@@ -1,0 +1,18 @@
+name: Sukiru
+tagline:  A Telegram mini app for secure, decentralized talent and gig matching.
+showcaseUrl: https://www.hackquest.io/en/hackathon/projects/Flow-Asia-Hackathon-Sukiru
+sourceCodeUrl: https://github.com/nizarsyahmi/SukiruApp
+liveDemoUrl: https://sukiruapp.vercel.app
+social:
+  x: ""
+  github: "https://github.com/nizarsyahmi/SukiruApp"
+team:
+  -
+    name: Nizar Syahmi Nazlan
+    github: nizarsyahmi37
+  -
+    name: Hershel Tan
+    github: ninetendo59
+  -
+    name: Humaira Idris
+    github: moiralah
